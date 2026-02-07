@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "AddFonts"]
 	path = AddFonts
-	url = https://codeberg.com/gnoblet/AddFonts
+	url = https://codeberg.org/gnoblet/AddFonts
